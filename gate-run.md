@@ -1,10 +1,10 @@
 # Pre-submit gate run — news-image-20261118
 
-**Date:** 18 November 2026, ~10:15 WITA (gate run before push; GitHub HEAD
+**Date:** 18 November 2026, ~09:05 WITA (gate run before push; GitHub HEAD
 recorded in the builder's final report to the coordinator).
 **Entry:** "The World in One Day — a timeline of Wednesday 18 November 2026"
 **Repo:** https://github.com/RieryBuild/makefun-news-image-20261118
-**Local commit:** (recorded after the commit below; see report)
+**Local commit:** 761fc8c3c62ba0b3bad0c402547ed4ebe816eb60
 
 ## MQ1 — Can this entry be submitted RIGHT NOW, end to end?
 
